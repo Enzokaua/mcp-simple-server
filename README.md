@@ -1,8 +1,8 @@
 # MCP - Simple Server
 
 Este projeto implementa um modelo simples de MCP (Model Context Protocol), aprofundando alguns conhecimentos sobre a comunicação entre agentes e rede neural.
----
 
+---
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**: Versão 3.0.0
